@@ -1,3 +1,0 @@
-# IMUs
-
-filler

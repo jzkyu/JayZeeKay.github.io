@@ -1,3 +1,0 @@
-# REV Expansion Hub
-
-filler

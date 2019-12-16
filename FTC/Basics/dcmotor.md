@@ -1,3 +1,0 @@
-# DcMotor
-
-filler
